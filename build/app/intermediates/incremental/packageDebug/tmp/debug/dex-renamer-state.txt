@@ -1,0 +1,4 @@
+#Fri Sep 24 12:43:18 CDT 2021
+base.0=/home/noface/desarrollo/Udemy 1/productos1_udemy/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

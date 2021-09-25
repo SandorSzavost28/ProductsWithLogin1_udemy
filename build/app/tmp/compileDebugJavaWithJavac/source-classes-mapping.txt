@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/validacionforms1_udemy/BuildConfig.java
+ com.example.validacionforms1_udemy.BuildConfig
